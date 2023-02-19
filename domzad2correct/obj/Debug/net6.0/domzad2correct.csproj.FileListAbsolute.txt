@@ -1,0 +1,15 @@
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.csproj.AssemblyReference.cache
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.AssemblyInfoInputs.cache
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.AssemblyInfo.cs
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.csproj.CoreCompileInputs.cache
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\bin\Debug\net6.0\domzad2correct.exe
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\bin\Debug\net6.0\domzad2correct.deps.json
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\bin\Debug\net6.0\domzad2correct.runtimeconfig.json
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\bin\Debug\net6.0\domzad2correct.dll
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\bin\Debug\net6.0\domzad2correct.pdb
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.dll
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\refint\domzad2correct.dll
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.pdb
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\domzad2correct.genruntimeconfig.cache
+C:\Users\Logno\OneDrive\Desktop\Обучение Geekbrains\3 Знакомство с языками программирования\2023.02.12 Семинар 2 (8)\Sharpseminar2\Sharpseminar2\domzad2correct\obj\Debug\net6.0\ref\domzad2correct.dll
